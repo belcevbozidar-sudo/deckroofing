@@ -31,11 +31,11 @@ export default function HeroSection() {
       {/* Background photo */}
       <div className="absolute inset-0 z-0">
         <AppImage
-          src="/assets/images/vladi-build-24-poster-2.jpg"
-          alt="Рекламна визия на Влади Билд 24 ЕООД за ремонт на покриви, хидроизолация, улуци и нови покриви"
+          src="/assets/images/vladi-build-24-hero-roofers.jpg"
+          alt="Покривни майстори ремонтират керемиден покрив на жилищна къща"
           fill
           priority
-          className="object-cover object-center w-full h-full" />
+          className="object-cover object-[58%_center] md:object-center w-full h-full" />
         
         {/* Cinematic gradient overlay */}
         <div className="absolute inset-0 bg-gradient-to-t from-[#1E2024]/95 via-[#2B2D33]/55 to-[#1E2024]/20" />

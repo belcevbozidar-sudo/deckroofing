@@ -11,7 +11,7 @@ const projects = [
   system: 'Керемиди и конструкция',
   duration: 'Договор + гаранция',
   onTime: true,
-  image: "/assets/images/vladi-build-24-poster-1.jpg",
+  image: "/assets/images/stock-roof-repair-workers.jpg",
   alt: 'Ремонт на стар покрив от Влади Билд 24 ЕООД'
 },
 {
@@ -21,7 +21,7 @@ const projects = [
   system: 'Керемиди',
   duration: 'Качествени материали',
   onTime: true,
-  image: "/assets/images/vladi-build-24-poster-2.jpg",
+  image: "/assets/images/stock-roof-under-construction.jpg",
   alt: 'Пренареждане на керемиди и покривен ремонт'
 },
 {
@@ -31,7 +31,7 @@ const projects = [
   system: 'Хидроизолация',
   duration: 'Гаранция за качество',
   onTime: true,
-  image: "/assets/images/vladi-build-24-poster-1.jpg",
+  image: "/assets/images/stock-roof-waterproofing.jpg",
   alt: 'Хидроизолация на покрив от Влади Билд 24 ЕООД'
 },
 {
@@ -41,7 +41,7 @@ const projects = [
   system: 'Улуци и обшивки',
   duration: 'Нов покрив при нужда',
   onTime: true,
-  image: "/assets/images/vladi-build-24-poster-2.jpg",
+  image: "/assets/images/stock-gutters-roof-detail.jpg",
   alt: 'Улуци, обшивки и нов покрив'
 }];
 

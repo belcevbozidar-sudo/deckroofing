@@ -11,7 +11,7 @@ const systems = [
   best: 'течове, счупени керемиди и компрометирани участъци',
   thickness: 'след оглед',
   color: '#E8991C',
-  image: "/assets/images/vladi-build-24-poster-1.jpg",
+  image: "/assets/images/stock-roof-repair-workers.jpg",
   imageAlt: 'Влади Билд 24 ЕООД ремонт на стари покриви и керемиди',
   features: ['локален или цялостен ремонт', 'спиране на течове', 'договор и гаранция']
 },
@@ -22,7 +22,7 @@ const systems = [
   best: 'разместени, напукани или стари керемиди',
   thickness: 'по покрив',
   color: '#6B7280',
-  image: "/assets/images/vladi-build-24-poster-2.jpg",
+  image: "/assets/images/stock-roof-under-construction.jpg",
   imageAlt: 'Пренареждане на керемиди и ремонт на скатен покрив',
   features: ['подмяна на счупени керемиди', 'подреждане и укрепване', 'качествени материали']
 },
@@ -33,7 +33,7 @@ const systems = [
   best: 'защитa от вода, влага и течове около детайли',
   thickness: 'според основата',
   color: '#9CA3AF',
-  image: "/assets/images/vladi-build-24-poster-1.jpg",
+  image: "/assets/images/stock-gutters-roof-detail.jpg",
   imageAlt: 'Хидроизолация, улуци и обшивки за покрив',
   features: ['хидроизолационни решения', 'улуци и водоотвеждане', 'обшивки около комини и ръбове']
 }];
